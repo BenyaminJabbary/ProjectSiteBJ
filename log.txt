@@ -1,0 +1,37 @@
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T11:31:04Z","message":"Entered the main"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T11:31:04Z","message":"Entered the SiteBJ"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Site","time":"2024-02-22T11:31:31Z","message":"Entered the Site"}
+{"level":"error","AppName":"SiteBJ","siteBJ":"Site","error":"this option does not exist","time":"2024-02-22T11:31:34Z","message":"Error in SiteBJ"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T11:31:34Z","message":"Out of SiteBJ"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T11:31:34Z","message":"Out of main"}  //////
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:00:17Z","message":"Entered the main"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T13:00:17Z","message":"Entered the SiteBJ"}
+{"level":"error","AppName":"SiteBJ","error":"this site does not exist","main":"SiteBJ","time":"2024-02-22T13:00:22Z","message":"Error in main"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:00:22Z","message":"Out of main"} //////
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:00:22Z","message":"Out of main"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:03:02Z","message":"Entered the main"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T13:03:02Z","message":"Entered the SiteBJ"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Site","time":"2024-02-22T13:03:58Z","message":"Entered the Site"}
+{"level":"error","AppName":"SiteBJ","error":"this option does not exist","siteBJ":"Site","time":"2024-02-22T13:04:01Z","message":"Error in SiteBJ"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T13:04:01Z","message":"Out of SiteBJ"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:04:01Z","message":"Out of main"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:04:58Z","message":"Entered the main"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T13:04:58Z","message":"Entered the SiteBJ"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:17:47Z","message":"Entered the main"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T13:17:47Z","message":"Entered the SiteBJ"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Site","time":"2024-02-22T13:18:14Z","message":"Entered the Site"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Link","time":"2024-02-22T13:18:21Z","message":"Entered the Link"}
+{"level":"info","AppName":"SiteBJ","InternalLinks":"LinksSite","time":"2024-02-22T13:19:05Z","message":"Entered the LinksSite"}
+{"level":"info","AppName":"SiteBJ","internalLinks":"LinksSite","time":"2024-02-22T13:19:05Z","message":"Out of LinksSite"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Link","time":"2024-02-22T13:19:16Z","message":"Out of Link"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Search","time":"2024-02-22T13:19:34Z","message":"Entered the Search"}
+{"level":"info","AppName":"SiteBJ","searchSite":"SearchSite","time":"2024-02-22T13:19:39Z","message":"Entered the SearchSite"}
+{"level":"info","AppName":"SiteBJ","searchSite":"JavaCourse","time":"2024-02-22T13:19:39Z","message":"Entered the PhpCourse"}
+{"level":"info","AppName":"SiteBJ","searchSite":"JavaCourse","time":"2024-02-22T13:19:39Z","message":"Out of PhpCourse"}
+{"level":"info","AppName":"SiteBJ","searchSite":"SearchSite","time":"2024-02-22T13:19:39Z","message":"Out of SearchSite"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Search","time":"2024-02-22T13:19:45Z","message":"Out of Search"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"Site","time":"2024-02-22T13:19:51Z","message":"Out of Site"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T13:19:51Z","message":"Out of SiteBJ"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T13:19:51Z","message":"Out of main"}
+{"level":"info","AppName":"SiteBJ","time":"2024-02-22T14:54:33Z","message":"Entered the main"}
+{"level":"info","AppName":"SiteBJ","siteBJ":"SiteBJ","time":"2024-02-22T14:54:33Z","message":"Entered the SiteBJ"}
